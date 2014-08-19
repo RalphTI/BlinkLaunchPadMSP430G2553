@@ -74,7 +74,7 @@
 							<tool id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.218483048" name="MSP430 Hex Utility" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex">
 								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FILE.660615638" name="Specify output file names (--outfile, -o)" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FILE" value="&quot;${BuildArtifactFileBaseName}.hex&quot;" valueType="string"/>
 								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.TOOL_ENABLE.1067696163" name="Enable tool" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.TOOL_ENABLE" value="true" valueType="boolean"/>
-								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.1626255359" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT" value="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.INTEL" valueType="enumerated"/>
+								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.1626255359" name="Output format" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT" value="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.TI_TXT" valueType="enumerated"/>
 							</tool>
 						</toolChain>
 					</folderInfo>
@@ -152,7 +152,7 @@
 							<tool id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.3210639" name="MSP430 Hex Utility" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex">
 								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FILE.1567728805" name="Specify output file names (--outfile, -o)" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FILE" value="&quot;${BuildArtifactFileBaseName}.hex&quot;" valueType="string"/>
 								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.TOOL_ENABLE.1479222143" name="Enable tool" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.TOOL_ENABLE" value="true" valueType="boolean"/>
-								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.952368241" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT" value="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.INTEL" valueType="enumerated"/>
+								<option id="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.952368241" name="Output format" superClass="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT" value="com.ti.ccstudio.buildDefinitions.MSP430_4.3.hex.OUTPUT_FORMAT.TI_TXT" valueType="enumerated"/>
 							</tool>
 						</toolChain>
 					</folderInfo>
